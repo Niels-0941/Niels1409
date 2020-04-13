@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body {
+	background-image: url(../images/picture1.jpg);
+	border-radius: 20px;
+	background-repeat: no-repeat;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 30pt;
+	color: #F7F5F5;
+	text-align: center;
+	line-height: 0px;
+}
+.something {
+	background-color: #E41C1F;
+	width: 103px;
+	height: 63px;
+}
